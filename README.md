@@ -19,3 +19,4 @@ Whether you are a `beginner` or an `experienced data engineer`, [DE Essentials](
 
 
 
+![image](https://github.com/user-attachments/assets/a737aef4-5acc-4a9f-9eca-71699f46fca1)

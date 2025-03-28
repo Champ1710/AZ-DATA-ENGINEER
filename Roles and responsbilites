@@ -21,7 +21,6 @@ Being an Azure Data Engineer means smartly handling data so businesses can use i
 
 Azure Data Engineer Skills
 An Azure Data Engineer needs different skills to handle, process, and manage data using Microsoft Azure. These Azure Data Engineer skills help you build strong data solutions that businesses can use for better decision-making. If you want to grow in this field, you must learn Azure Data Engineer skills to work with big data, security, and automation.
-
 Important Azure Data Engineer Skills
 1. Knowledge of Azure Data Services
 You must understand Azure Data Factory, Azure Synapse Analytics, and Azure Data Lake.
@@ -45,30 +44,23 @@ Learning Azure Data Engineer skills will help you work with large data systems, 
 
 Some Important Data Engineering Concepts
 Data engineers should be conversant with a few key principles. These concepts serve as the foundation for many of the tasks that data engineers must design and support.
-
 1. Operational and analytical data
 Operational and analytical data
-
 Operational data is typically transactional data generated and saved by programs, either in a relational or non-relational database. Analytical data is information that has been optimized for analysis and reporting, typically in a data warehouse.
 A data engineer's primary responsibilities include designing, implementing, and managing solutions that integrate operational and analytical data sources, as well as extracting operational data from multiple systems, transforming it into appropriate analytical structures, and loading it into an analytical data store.
 2. Streaming data
 Streaming data
-
-
 Streaming data refers to continuous sources of data that generate data values in real-time, often in response to specified events. IoT devices and social media feeds are two common sources of streaming data.
 Data engineers frequently have to develop solutions that capture real-time streams of data and ingest them into analytical data systems, typically mixing the real-time data with other application data that is processed in batches.
 3. Data pipelines
 Data pipelines
-
 Data pipelines are used for managing data transfers and transformations.
 Pipelines are the primary method by which data engineers create repeatable extract, transform, and load (ETL) solutions that can be activated on a schedule or in response to events.
 4. Data lakes
 Data lakes
-
 A data lake is a storage facility that contains enormous amounts of data in its native, unprocessed format. Data lake stores are designed to scale to huge amounts (terabytes or petabytes) of data. The data is often collected from a variety of sources and might be structured, semi-structured, or unstructured.
 The aim behind a data lake is to store everything in its original, unaltered state. This strategy varies from a standard data warehouse, which transforms and processes data at the point of ingestion.
 5. Data warehouses
-Data warehouses
-
+Data warehouse
 A data warehouse is a centralized repository for integrated data from one or more different sources. Data warehouses hold current and historical data in relational tables structured in a way that improves performance for analytical queries.
 Data engineers develop and install relational data warehouses, as well as manage frequent data loading into tables.

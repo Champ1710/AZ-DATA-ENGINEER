@@ -1,0 +1,45 @@
+here are some day-to-day activities you can mention during the interview:
+
+1. Data Engineering and ETL Development:
+   - Design, develop, and implement complex databases and data marts.
+   - Develop and maintain ETL processes using tools like Informatica, AWS Glue, and PySpark.
+   - Perform data extraction, transformation, and loading (ETL) from various sources into target systems.
+
+2. Cloud Services and Big Data Technologies:
+   - Utilize AWS services such as EC2, S3, Redshift, Lambda, and EMR for data processing and storage.
+   - Work with Azure services like Azure Data Factory, Azure Databricks, and Azure HDInsight.
+   
+3. Data Modeling and Analysis:
+   - Design and implement data models (relational, dimensional, star, and snowflake schemas).
+   - Perform data analysis and create reports using tools like Tableau, Power BI, and SSRS.
+   - Optimize data queries and performance using Hive, Spark SQL, and other big data tools.
+
+4. Real-Time Data Processing:
+   - Develop real-time data streaming applications using Kafka, Spark Streaming, and Flink.
+   - Monitor and manage real-time data flows and ensure data quality and integrity.
+
+5. Collaboration and Project Management:
+   - Collaborate with business users, analysts, and cross-functional teams to gather requirements and deliver data solutions.
+   - Participate in code reviews, testing, and debugging to ensure high-quality deliverables.
+   - Manage metadata and data lineage to ensure data visibility and traceability.
+
+6. Automation and Continuous Integration:
+   - Implement CI/CD pipelines using tools like GitLab, Jenkins, and Maven.
+   - Automate routine tasks and data workflows using Python and shell scripts.
+   - Monitor and troubleshoot production jobs and ensure smooth operation of data pipelines.
+
+7. Machine Learning and Advanced Analytics:
+   - Implement machine learning algorithms using Spark/Flink on platforms like Azure Databricks and AWS SageMaker.
+   - Develop and deploy ML models for data analysis and prediction.
+   =====================================================================================================================
+
+Day-to-Day Tasks: "During the interview, we will focus on your day-to-day tasks such as:
+
+Designing and implementing complex databases and data marts.
+Developing and maintaining ETL processes using tools like Informatica, AWS Glue, and PySpark.
+Utilizing AWS, Azure, services for data processing and storage.
+Performing data analysis and creating reports using Tableau, Power BI, and SSRS.
+Developing real-time data streaming applications using Kafka, Spark Streaming, and Flink.
+Collaborating with business users and analysts to gather requirements and deliver data solutions.
+Implementing CI/CD pipelines and automating routine tasks using Python and shell scripts.
+Implementing machine learning algorithms and developing ML models for data analysis."
